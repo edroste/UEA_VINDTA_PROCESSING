@@ -1,0 +1,9 @@
+filename: 	9999_20240120_10_0_1_1.dat	Date: 	23/01/2024	Time :	14:49Calc. ID: 	1	constants used: 	Prieto and Millero	ml 	mV 	fitted vol.	pH (calc.)	temp.	
+0.000	1.000	0.000	0.000	0.000
+0.000	0.000	0.000	0.000	0.000
+0.000	0.000	0.000	0.000	0.000
+temperature 	salinity	phosphate	silicate	temp. used	density0.000000	0.000000	0.000000	23.000000	25.000000	0.997048
+sample (g) 	acid dens.	acid conc.96.403748	1.022700	0.094005
+simple granplot results: AT	CT	E0	K1NaN	NaN	0.000	NaN
+modified granplot results: AT	CT	E0	K1	RMSNaN	NaN	NaN	NaN	NaN
+curve fitting results: AT	CT	E0	K1	mseNaN

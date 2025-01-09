@@ -1,0 +1,37 @@
+guide_to_DICTA_calcs_20250106
+
+###########
+20250106 - ESD - UEA 
+Start of guide
+
+###########
+
+Processing DIC and TA from raw UEA VINDTA data ouput
+
+1. File preparations (fileprep)
+
+Go through the summary.csv raw data output file from the VINDTA and do the following: 
+- Make necessary corrections to metadata
+- Make necessary corrections to filenaming (here, .dat filenames might have to be corrected, too! Be cautious.)
+- Merge auxiliary data from other datafiles (e.g. salinity and nutrients from CTD bottle files)
+
+2. Calculate DIC content (DIC_CRMs_QC)
+
+- Add CRM certified values in respective columns
+- Perform preliminary DIC calculations using all CRMs
+- QC CRMs
+- Re-do DIC calculations with only the "good" CRM runs
+- Identify need and assess relevance of drift corrections
+
+3. Calculate TA content (TA_CRMs_QC)
+
+- Assign HCl batches
+- Determine HCl concentration
+- QC CRMs based on acid titrant concentration
+- Perform preliminary TA calculations using all CRMs
+- QC CRMs based on TA
+- Re-do TA calculations using only "good" CRM runs
+
+4. QC DIC and TA of samples (DICTA_samples_QC)
+- QC DIC values
+- QC TA values

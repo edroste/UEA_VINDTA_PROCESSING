@@ -1,0 +1,5 @@
+README
+
+These datafiles are the output from `DICTA_samples_QC.ipynb` Notebook. 
+
+It contains DIC and TA results, as well as their intermediary calculations (see `DIC_CRMs_QC.ipynb` and `TA_CRMs_QC`.ipynb), and means for replicate samples. DIC and TA results for samples have been flagged. 

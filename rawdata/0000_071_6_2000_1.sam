@@ -1,0 +1,21 @@
+Sample No:           0000_071_6_2000_1
+Silicate:            0
+Station No:          0000
+Cast No:             071
+Niskin No:           6
+Bottle No:           0
+Depth:               2000
+Temperature:         0
+Salinity:            35
+Phosphate:           0
+Replicate:           1
+ 
+DIC threshold               50
+Operating Temp min          24
+Operating Temp max          26
+AcidConc                    0.09446
+AcidRho                     1.0227
+VPipet                      96.7556
+Zero potential of electrode 600
+Data Path                   C:\vindta\data\SD035_PICCOLO_Lucy
+ 
